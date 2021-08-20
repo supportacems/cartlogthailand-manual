@@ -6,7 +6,7 @@ description: Just the Docs is a responsive Jekyll theme with built-in search tha
 permalink: "/"
 
 ---
-# Focus on writing good documentation
+# Cartlog
 
 Cartlog
 
